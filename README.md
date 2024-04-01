@@ -8,6 +8,3 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 login details: 
 user@nextmail.com
 123456
-
-FIX INVOICE EDIT
-ADD AUTHORISATION WITH VERCEL (production)
